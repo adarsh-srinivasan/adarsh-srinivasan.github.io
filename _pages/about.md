@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student in the theory group of the computer science department of Rutgers University, advised by Karthik CS. I am interested in algorithms and complexity. 
+Hi! I am a PhD student in the theoretical computer science group of Rutgers University, advised by Karthik CS. I work on satisfiability algorithms and their connections to circuit lower bounds and fine grained complexity. 
